@@ -1,7 +1,7 @@
 Node.js Coding guidelines
 ==========================
 
-## Use only 4 space indentations (tabs)
+## Tab size is 4 space
 Do not indent using mixed spaces and tabs ever
 
 ## New lines
