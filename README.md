@@ -1,4 +1,4 @@
-Node.js Coding conventions
+Node.js Coding guidelines
 ==========================
 
 ## Use only 4 space indentations (tabs)
